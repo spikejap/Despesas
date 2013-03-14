@@ -17,7 +17,6 @@ public class Despesas {
         System.out.print("Eu tenho despesas!!!\n");
          System.out.print("Eu tenho despesas!!!\n");  
           System.out.print("Eu tenho despesas!!!\n"); 
-          
           System.out.print("Venha mais!\n");
       
     }
